@@ -24,19 +24,19 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
   
 ### ⚡ GitHub Stats:
 <div align="center">
-<a href="https://github.com/vSkipv">
-  <img align="center" height="130em" src="https://github-readme-stats-khaki-six.vercel.app//api?username=vSkipv&count_private=true&show_icons=true&theme=dark&hide=prs,issues&include_all_commits=true" />
+<a href="https://github.com/HabibaHelmyEmam">
+  <img align="center" height="130em" src="https://github-readme-stats-khaki-six.vercel.app//api?username=HabibaHelmyEmam&count_private=true&show_icons=true&theme=dark&hide=prs,issues&include_all_commits=true" />
 </a>
-<a href="https://github.com/vSkipv">
-  <img align="center" height="130em" src="https://github-readme-stats-khaki-six.vercel.app//api/top-langs/?username=vSkipv&layout=compact&theme=dark&langs_count=6&exclude_repo=Deep-Learning-Specialization-Coursera,MachineLearning-StanfordOnline,CS50AI,kaggle,MLH-GHW-Video-Game&hide=html,Jupyter%20Notebook,makefile,css,makefile,Roff" />
+<a href="https://github.com/HabibaHelmyEmam">
+  <img align="center" height="130em" src="https://github-readme-stats-khaki-six.vercel.app//api/top-langs/?username=HabibaHelmyEmam&layout=compact&theme=dark&langs_count=6&exclude_repo=Deep-Learning-Specialization-Coursera,MachineLearning-StanfordOnline,CS50AI,kaggle,MLH-GHW-Video-Game&hide=html,Jupyter%20Notebook,makefile,css,makefile,Roff" />
 </a>
 </div>
 
   
 ### ☄️ Github Streaks:
 <div align="center">
-	<a href="https://github.com/vSkipv">
-	  <img align="center" height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=vSkipv&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+	<a href="https://github.com/HabibaHelmyEmam">
+	  <img align="center" height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=HabibaHelmyEmam&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 	</a>
 </div>
 
@@ -47,9 +47,8 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 	
 <summary><b>⚙️ My Workflow And Tools</b></summary>
   	<ul>
-  	  <li><b>OS:</b> Windows 11 & Linux ubuntu</li>
-	    <li><b>Laptop: </b> HP Laptop 15-dw3010nx (i5)</li>
-	    <li><b>PC: </b> Intel Core I7, 16GB Ram, GTX 1060 </li>
+  	  <li><b>OS:</b> Windows 10 </li>
+	    <li><b>Laptop: </b> HP Laptop (i5)</li>
   	  <li><b>Browser: </b> Chrome </li>
 	    <li><b>Terminal: </b> Powershell, ZSH </li>
 	    <li><b>Code Editor:</b> Clion & VSCODE </li>
