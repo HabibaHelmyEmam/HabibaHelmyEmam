@@ -12,17 +12,14 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 
 ### 👨‍💻 Talking about me:  
 
-- 🛠 I’m currently working with Python, C++, a little bit with java
+- 🛠 I’m currently working with  C++, a little bit with java
 - 🔭 I’m currently working on my personal portfolio 
-- 🌱 I’m currently learning AI/ML
+- 🌱 I’m currently learning Backend
 - 👀 I’m interested in Cyper security 
-- 📫 How to reach me: almallaheyad9@gmail.com
+- 📫 How to reach me: Habibahelmyemam@yahoo.com
 
 <details open><summary><h3 align="center">🌐 Connect with me:</h3></summary>
-<code><a href="https://www.linkedin.com/in/eyad-almallah-a7188b233/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahd-seddik" height="30" width="40" /></a></code>
-<code><a href="https://codeforces.com/profile/EyadAlmallah" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="midniterayz" height="30" width="40" /></a></code>
-<code><a href="https://leetcode.com/EyadAlmallah/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="midniterayz" height="30" width="40" /></a></code>
-<code><a href="https://www.hackerrank.com/EyadAlmallah" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fahd_seddik02" height="30" width="40" /></a></code>	
+<code><a href="https://www.linkedin.com/in/habiba-helmy-a34322234/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahd-seddik" height="30" width="40" /></a></code>
   </details>
   
 ### ⚡ GitHub Stats:
